@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PxeServer", "PxeServer\PxeServer.csproj", "{2399770F-0BAC-47B8-AFCF-0913419783F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinynetbootServer.UI", "TinynetbootServer.UI\TinynetbootServer.UI.csproj", "{09BFFDDF-F666-42E2-863A-6A1708137AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2399770F-0BAC-47B8-AFCF-0913419783F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2399770F-0BAC-47B8-AFCF-0913419783F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2399770F-0BAC-47B8-AFCF-0913419783F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2399770F-0BAC-47B8-AFCF-0913419783F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BFFDDF-F666-42E2-863A-6A1708137AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BFFDDF-F666-42E2-863A-6A1708137AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BFFDDF-F666-42E2-863A-6A1708137AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BFFDDF-F666-42E2-863A-6A1708137AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B41C3D-FD18-4BDB-8275-CAC02F4CB0E6}
+	EndGlobalSection
+EndGlobal
